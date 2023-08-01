@@ -1,3 +1,4 @@
+![logo](https://github.com/Swapnil0825/Swapnil0825/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Swapnil Patil</h1>
 <h3 align="center">A passionate Electronic and Telecommunication Engineer from India</h3>
 
