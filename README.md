@@ -25,6 +25,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil0825&show_icons=true&locale=en&layout=compact" alt="swapnil0825" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil0825&show_icons=true&locale=en" alt="swapnil0825" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swapnil0825&show_icons=true&locale=en" alt="swapnil0825" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil0825&" alt="swapnil0825" /></p>
